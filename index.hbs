@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nest App</title>
+    <link rel="stylesheet" href="/css/index.css"> <!-- do follow this patth only it afte hovering and trying to open this file it wont open in the vscode but this is the only way it will get renederd -->
+</head>
+<body>
+    <h1>this app follows MVC model</h1>
+
+    {{#each books}}
+    <h2>Title: {{this.title}}</h2>
+    <h2>Author: {{this.author}}</h2>
+    <h2>Publish: {{this.publish}}</h2>
+    {{/each}}
+
+    <script src="/js/app.js"></script> <!-- Updated path -->
+</body>
+</html>
