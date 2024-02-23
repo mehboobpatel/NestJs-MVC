@@ -55,9 +55,4 @@ than under public folder we create two subfolders js and css and include it in t
 
 and YOUR APP IS running!
 
-
-![Alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDYzYzE1Z29yMmozcjBhMnJmMWd0bnd2c2gxZW9laWFrZ2NsY2htNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L0O3TQpp0WnSXmxV8p/giphy.gif)
-
-
-giffy
-![alt text](image-4.gif)
+![alt text](wooho.gif)
